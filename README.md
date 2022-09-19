@@ -1,4 +1,3 @@
 # Unit1-04-Python
-This site can be found at: [https://<https://github.com/ICS3U-Programming-JeremiahO/Unit1-04-Python 
->.github.io/<REPOSITORY>](https://<https://github.com/ICS3U-Programming-JeremiahO/Unit1-04-Python 
-R>.github.io/<REPOSITORY>)
+[![Mr Coxall's Super Linter](https://github.com/ICS3U-Programming-JeremiahO/Unit1-04-Python/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-Programming-JeremiahO/Unit1-04-Python/actions/)
+
